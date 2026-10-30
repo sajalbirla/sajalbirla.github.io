@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sajalbirla.github.io/sajal-portfolio/sitemap.xml
